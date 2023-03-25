@@ -756,4 +756,14 @@
     "startDate": "2023-03-31",
     "endDate": "2023-04-02"
   }
+   {
+    "title": "ETHcon Korea",
+    "to": "https://ethcon.kr/",
+    "sponsor": null,
+    "location": "Seoul,Korea",
+    "description": "Ethereum Developer Conference 100% Run by Community Volunteers",
+    "startDate": "2023-09-01",
+    "endDate": "2023-09-03"
+  }
+  
 ]
